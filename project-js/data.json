@@ -1,0 +1,18 @@
+{
+"cards":[
+    {
+    "img":"./images/KSRJ6557.jpg",
+    "name":"samsung",
+    "price":"12k",
+    "model":"12",
+    "offer":"10k"
+},
+{
+    "img":"./images/KSRJ6562.jpg",
+    "name":"realme",
+    "price":"22k",
+    "model":"12",
+    "offer":"18k"   
+}
+]
+}
